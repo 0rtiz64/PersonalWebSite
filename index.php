@@ -67,8 +67,8 @@
                     <li><a href="#blog-page">Blog</a></li>
                     <li><a href="#contact-page">Contact</a></li>
                     <li><a href="#contact-page">Contact</a></li>
-                    <li><a href="#contact-page">Contact</a></li>
-                    <li><a href="#contact-page">Contact</a></li>
+                    <li><a href="#contact-page">Services 2</a></li>
+                    <li><a href="#contact-page">Contact 2</a></li>
                 </ul>
             </nav>
         </div>
